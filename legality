@@ -1,0 +1,67 @@
+ _                  _ _ _         
+| | ___  __ _  __ _| (_) |_ _   _ 
+| |/ _ \/ _` |/ _` | | | __| | | |
+| |  __/ (_| | (_| | | | |_| |_| |
+|_|\___|\__, |\__,_|_|_|\__|\__, |
+        |___/               |___/                         
+🎙️ Welcome to the Dark Side of DIY Wireless – But Watch Your Step
+
+You're standing at the edge of an incredibly powerful world — where garage door clicks, gas signs blink, and remotes dance in the Sub-GHz ether. Armed with your Flipper Zero and a fat little microSD card, you've got access to repositories that hold potential, possibility, and yes... danger.
+
+🧠 But here's the truth most won't tell you:
+
+Just because you can clone a signal…
+Doesn't mean you should.
+And if you don't understand what you're loading from GitHub?
+You’re not a hacker — you’re a hazard.
+
+🚧 USE THESE REPOS WISELY:
+
+🔹 Jamming files:
+👉 https://github.com/SHUR1K-N/Flipper-Zero-Sub-GHz-Jamming-Files
+🚨 Illegal in many regions. Could interfere with emergency signals or legitimate devices. Use in a test lab, not in traffic.
+
+🔹 Gas sign remotes:
+👉 https://github.com/UberGuidoZ/Flipper/tree/main/Sub-GHz/Gas_Sign
+💡 Awesome for learning signal patterns — not for playing pranks on gas stations.
+
+🔹 Sub-GHz Everything:
+👉 https://github.com/UberGuidoZ/Flipper
+🌐 A library of signals from garage doors to car keys. Respect what you're learning.
+
+🔹 YouTube How-To’s (Use Responsibly):
+👉 https://www.youtube.com/watch?v=SrrpPjikfQ4
+👉 https://www.youtube.com/watch?v=bcntwY3Oz04
+
+💾 And don't forget your gear matters too:
+
+✅ Use a trusted SD card:
+
+SanDisk Extreme 32GB
+
+Samsung EVO Select
+⚠️ Avoid 64GB+ unless you know how to properly format FAT32.
+
+Because if your SD card corrupts? You’ll lose payloads.
+If your Flipper glitches mid-jam? You might crash more than just a demo.
+
+🎤 Final Words, Rookie Hacker:
+
+Hacking isn’t about pressing send — it’s about knowing what happens after.
+These tools aren’t toys. They’re like lockpicks — cool to own, but illegal to use on someone else’s front door.
+
+So:
+
+🔐 Hack responsibly
+📚 Learn deeply
+🔥 Don’t burn bridges — or frequencies
+
+And always remember…
+                                    _               
+ _ __ ___ _ __ ___   ___ _ __ ___ | |__   ___ _ __ 
+| '__/ _ \ '_ ` _ \ / _ \ '_ ` _ \| '_ \ / _ \ '__|
+| | |  __/ | | | | |  __/ | | | | | |_) |  __/ |   
+|_|  \___|_| |_| |_|\___|_| |_| |_|_.__/ \___|_|  
+This is your power.
+Use it. Don’t abuse it.
+
